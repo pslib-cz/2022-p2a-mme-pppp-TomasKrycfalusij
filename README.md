@@ -7,12 +7,17 @@
 
 This project has a purpose for organising any small items with available description. It is supposed to be used for things, where people can easily forget what was the original item description/measurements. We are talking about pills, mechanical nuts etc. Anyone can forget at any time what was the pill name or what was the nut size. This way we can keep our things organised while knowing what is inside.
 
+## Measurements
 
-### Name tags
+## Printing
+The 3D printer you are going to use is optional. We recommend printing the model using 0.2mm nozzle for the best result. The models is printed all at once and there is no need of printing anything separately.
+![alt text](https://github.com/pslib-cz/2022-p2a-mme-pppp-TomasKrycfalusij/blob/41e11c71c3c2d05d9e3725db722ee50f9e566275/Spodn%C3%AD%20plocha%20ve%20Sliceru.png)
 
+## Name tags
 Name tags can be a small paper size of X×X centimeters. We can use normal paper and cut a rectangle that will match the hole size. Then we can write on it any description we want. Then we simply insert the paper in the front flat hole and the setup is finished. Inside there is a small step to prevent the name tag easily falling out.
 
-
+## Costs
+T
 
 ## Files
 - [Download **STL (3D printable) file**](https://github.com/pslib-cz/2022-p2a-mme-pppp-TomasKrycfalusij/blob/709aed4188e2cf19ec6ba9337bcef1e13d6477b7/Organizer%20leku%20Krycfalusij/Cely%20dil.STL)
