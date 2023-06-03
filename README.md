@@ -10,7 +10,7 @@
 This project has a purpose for organising any small items with available description. It is supposed to be used for things, where people can easily forget what was the original item description/measurements. We are talking about pills, mechanical nuts etc. Anyone can forget at any time what was the pill name or what was the nut size. This way we can keep our things organised while knowing what is inside.
 
 
-# Name tags
+### Name tags
 
 Name tags can be a small paper size of X×X centimeters. We can use normal paper and cut a rectangle that will match the hole size. Then we can write on it any description we want. Then we simply insert the paper in the front flat hole and the setup is finished. Inside there is a small step to prevent the name tag easily falling out.
 
