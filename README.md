@@ -8,17 +8,17 @@
 This project has a purpose for organising any small items with available description. It is supposed to be used for things, where people can easily forget what was the original item description/measurements. We are talking about pills, mechanical nuts etc. Anyone can forget at any time what was the pill name or what was the nut size. This way we can keep our things organised while knowing what is inside.
 
 ## Measurements
-**Final result (with closed cover)**
+**Final result (with closed cover):**
 - Length: 174mm
 - Width: 80mm
 - Height: 37mm
 
-**Printing measurements (with opened cover)**
+**Printing measurements (with opened cover):**
 - Length: 174mm
 - Width: 161mm
 - Height: 30mm
 
-Weight:
+**Weight:**
 - *weight*
 
 ## Printing
