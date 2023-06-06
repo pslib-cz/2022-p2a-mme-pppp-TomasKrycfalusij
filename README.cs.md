@@ -28,4 +28,14 @@ Typ 3D tiskárny, kterou budete používat, je volitelný. Doporučujeme tisknou
 ![Model v Prusa Slicer](https://github.com/pslib-cz/2022-p2a-mme-pppp-TomasKrycfalusij/blob/41e11c71c3c2d05d9e3725db722ee50f9e566275/Spodn%C3%AD%20plocha%20ve%20Sliceru.png)
 
 ## Jmenné štítky
-Jmenné štítky mohou být malého papírového formátu o rozměre
+Jmenné štítky mohou být malého papírového formátu o rozměrech X×X centimetrů. Můžeme použít běžný papír a vyříznout obdélník, který odpovídá velikosti otvoru. Poté na něj můžeme napsat jakýkoliv popis, který chceme. Pak jednoduše vložíme papír do předního plochého otvoru a nastavení je hotovo. Uvnitř je malý stupínek, který brání snadnému vypadnutí jmenného štítku.
+
+## Cena
+Poud použijeme filamnet jako je [tento](https://www.alza.cz/gembird-filament-pla-cerna-d4481219.htm?kampan=adwtts_tiskarny-spotrebak_pla_all_obecna-css_filamenty_c_9062780___DF532c_602862790920_~141164777641~&gclid=CjwKCAjwyeujBhA5EiwA5WD7_b2r_pZvj6XdvUu0VmMa4DaTV-C-IBU2JoSR9re3Scso27IM31_opRoCrRkQAvD_BwE) (1kg = 489czk), the cost would be about *cost*
+
+## Soubory
+- [Stáhnout **STL (3D tisknutelný) soubor**](https://github.com/pslib-cz/2022-p2a-mme-pppp-TomasKrycfalusij/blob/709aed4188e2cf19ec6ba9337bcef1e13d6477b7/Organizer%20leku%20Krycfalusij/Cely%20dil.STL)
+- [Stáhnout **sestavu**](https://github.com/pslib-cz/2022-p2a-mme-pppp-TomasKrycfalusij/blob/7279f0c8217291766b1707b87c8e64ef5a52956f/Organizer%20leku%20Krycfalusij/Cely%20dil.SLDASM)
+- [Stáhnout **tělo**](https://github.com/pslib-cz/2022-p2a-mme-pppp-TomasKrycfalusij/blob/7279f0c8217291766b1707b87c8e64ef5a52956f/Organizer%20leku%20Krycfalusij/Telo.SLDPRT)
+- [Stáhnout **kloub**](https://github.com/pslib-cz/2022-p2a-mme-pppp-TomasKrycfalusij/blob/7279f0c8217291766b1707b87c8e64ef5a52956f/Organizer%20leku%20Krycfalusij/Kloub.SLDPRT)
+- [Stáhnout **kryt**](https://github.com/pslib-cz/2022-p2a-mme-pppp-TomasKrycfalusij/blob/7279f0c8217291766b1707b87c8e64ef5a52956f/Organizer%20leku%20Krycfalusij/Kryt.SLDPRT)
