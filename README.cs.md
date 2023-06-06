@@ -1,4 +1,7 @@
 [![Datum splnění recenze úkolu](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/V-0A61vX)
+[![en](https://img.shields.io/badge/lang-en-blue)](README.md)
+[![cs](https://img.shields.io/badge/lang-cs-red)](README.cs.md)
+
 
 # **VÍCEÚČELOVÝ ORGANIZÉR**
 
