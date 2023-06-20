@@ -31,7 +31,7 @@ Typ 3D tiskárny, kterou budete používat, je volitelný. Doporučujeme tisknou
 Jmenné štítky mohou být malého papírového formátu o rozměrech 5×1.5 centimetrů. Můžeme použít běžný papír a vyříznout obdélník, který odpovídá velikosti otvoru. Poté na něj můžeme napsat jakýkoliv popis, který chceme. Pak jednoduše vložíme papír do předního plochého otvoru a nastavení je hotovo. Uvnitř je malý stupínek, který brání snadnému vypadnutí jmenného štítku.
 
 ## Cena
-Poud použijeme filamnet jako je [tento](https://www.alza.cz/gembird-filament-pla-cerna-d4481219.htm?kampan=adwtts_tiskarny-spotrebak_pla_all_obecna-css_filamenty_c_9062780___DF532c_602862790920_~141164777641~&gclid=CjwKCAjwyeujBhA5EiwA5WD7_b2r_pZvj6XdvUu0VmMa4DaTV-C-IBU2JoSR9re3Scso27IM31_opRoCrRkQAvD_BwE) (1kg = 489czk), cena by byla okolo 80czk
+Pokud použijeme filamnet jako je [tento](https://www.alza.cz/gembird-filament-pla-cerna-d4481219.htm?kampan=adwtts_tiskarny-spotrebak_pla_all_obecna-css_filamenty_c_9062780___DF532c_602862790920_~141164777641~&gclid=CjwKCAjwyeujBhA5EiwA5WD7_b2r_pZvj6XdvUu0VmMa4DaTV-C-IBU2JoSR9re3Scso27IM31_opRoCrRkQAvD_BwE) (1kg = 489czk), cena by byla okolo 80czk
 
 ## Soubory
 - [Stáhnout **STL (3D tisknutelný) soubor**](https://github.com/pslib-cz/2022-p2a-mme-pppp-TomasKrycfalusij/blob/709aed4188e2cf19ec6ba9337bcef1e13d6477b7/Organizer%20leku%20Krycfalusij/Cely%20dil.STL)
